@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  notificationchart:
+  - apiVersion: v1
+    created: 2018-02-19T15:44:46.952465867-05:00
+    description: A Helm chart for Kubernetes
+    digest: fa14b5ad042c37c98b9fe422a92d0a9d518249d769eafd502497b71681c2b9f4
+    name: notificationchart
+    urls:
+    - https://kag-icp-demo.github.io/mycharts/notificationchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-02-19T15:44:46.950654846-05:00
